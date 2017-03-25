@@ -1,0 +1,21 @@
+# Subfolders
+Archives/
+NGPF Package
+
+# Figures
+*.png
+*.jpg
+
+# Documents
+*.pdf
+*.doc*
+
+# Archive fives
+*.zip
+*.rar
+
+# Exclusions
+!*.m
+
+# Junks
+TimeSeriesTests.m
